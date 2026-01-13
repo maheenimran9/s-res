@@ -221,6 +221,7 @@ h1, h2, h3, h4 {
 .hero-description {
     font-size: 1.1rem;
     line-height: 1.6;
+    margin: 0 auto;
     color: var(--text-light);
     margin-bottom: 30px;
     max-width: 500px;
